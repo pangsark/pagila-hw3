@@ -1,5 +1,5 @@
 # pagila-hw3
-[![](https://github.com/pangsark/pagila-hw3/workflows/tests/badge.svg)](https://github.com/pangsark/pagila-hw3/actions?query=workflow%3Atests)
+[![](https://github.com/tylerheadley/pagila-hw3/workflows/tests/badge.svg)](https://github.com/tylerheadley/pagila-hw3/actions?query=workflow%3Atests)
 
 ## Tasks
 
